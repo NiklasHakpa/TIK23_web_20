@@ -1,10 +1,10 @@
 # TIK23_web_20
 
-Ryhmän jäsenet:
-    Niklas Hakanpää @hakis
-    Niko Kola @NikoKola1
-    Axel Airama @axelairama
-    Pyry Koskinen @pilwk
-    Abdi @
-
+Ryhmän jäsenet: <br>
+    Niklas Hakanpää @hakis  <br>
+    Niko Kola @NikoKola1  <br>
+    Axel Airama @axelairama  <br>
+    Pyry Koskinen @pilwk<br>
+    Abdi @<br>
+<br>
 [Hackanplan linkki](https://app.hacknplan.com/p/201531)

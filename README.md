@@ -3,7 +3,7 @@
 Ryhmän jäsenet:  
 - Niklas Hakanpää [@NiklasHakpa](https://github.com/NiklasHakpa)  
 - Niko Kola [@NikoKola1](https://github.com/NikoKola1)  
-- Axel Airama [@axelairam](https://github.com/axelairam)  
+- Axel Airama [@axelairama](https://github.com/axelairama)  
 - Pyry Koskinen [@pilwk](https://github.com/pilwk)  
 - Abdi @  
   
